@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NhapEmail</string>
+    <string name="tieu_de">Thực Hành 02</string>
+    <string name="button_kiemtra">Kiểm Tra</string>
+    <string name="hint_nhap">Email</string>
+
+</resources>

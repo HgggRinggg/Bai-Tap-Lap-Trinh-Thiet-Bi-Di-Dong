@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NhapSo</string>
+    <string name="tieu_de">Thực Hành 02</string>
+    <string name="button_tao">Tạo</string>
+    <string name="loi">Dữ liệu nhập vào không hợp lệ</string>
+    <string name="hint_nhap">Nhập vào số lượng</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nhaptentuoi</string>
+    <string name="tieu_de">THỰC HÀNH 01</string>
+    <string name="nhap_ten">Họ và tên</string>
+    <string name="nhap_tuoi">Tuổi</string>
+    <string name="hint">Nhập dữ liệu</string>
+    <string name="button_kiemtra">Kiểm Tra</string>
+</resources>
