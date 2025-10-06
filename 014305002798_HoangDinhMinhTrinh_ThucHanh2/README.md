@@ -2,18 +2,18 @@
 
 ## Bài 1: Nhập Số
 
-### Mô tả bài tập
+### 1. Mô tả bài tập
 
 Tạo một màn hình đơn giản để nhập số. Dựa trên giá trị nhập:
 - Nếu dữ liệu nhập vào là kiểu số, ứng dụng tạo ra một danh sách ô được đánh số từ 1 đến số đã nhập
 - Nếu khác kiểu dữ liệu số (ví dụ: chữ cái, ký tự đặc biệt,...), ứng dụng hiển thị thông báo lỗi "Dữ liệu nhập vào không hợp lệ"
   
-### Mục tiêu
+### 2. Mục tiêu
 - Rèn luyện kỹ năng thiết kế giao diện người dùng (UI) đơn giản
 - Xử lý input từ người dùng
 - Tạo danh sách động
 
-### Kết quả
+### 3. Kết quả
 
 - Giao diện bao gồm:
   + Ô nhập liệu (TextInputEditText) cho phép người dùng thay đổi dữ liệu đầu vào.
@@ -21,7 +21,7 @@ Tạo một màn hình đơn giản để nhập số. Dựa trên giá trị nh
 - Hiển thị danh sách các ô theo hàng dọc được đánh số thứ tự khi nhập vào một số n (1, 2, 3,...)
 - Hiển thị thông báo lỗi khi nhập vào dữ liệu không phải số nguyên
   
-### Giải thích
+### 4. Giải thích
 
    ```bash
    fun xuLyTao(view: View)
