@@ -4,6 +4,7 @@
 
 ## 📁 Cấu trúc thư mục
 
+```
 src/main/java/com/team/eatcleanapp/
 │
 ├── MainActivity.kt
@@ -163,6 +164,7 @@ src/main/java/com/team/eatcleanapp/
     ├── NutritionCalculator.kt
     └── Result.kt
 
+```
 
 - Sử dụng **camelCase** cho Biến và hàm
 - Tên phải rõ ràng, mô tả đúng mục đích
